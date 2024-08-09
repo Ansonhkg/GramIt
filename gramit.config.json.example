@@ -1,0 +1,25 @@
+[
+  {
+    "source_dirs": ["../meine-mma"],
+    "file_extensions": ["ts"],
+    "output_file": "./output/combined_1.txt",
+    "custom_ignore_patterns": ["*.tmp", "**/node_modules/**", "**/.git/**"],
+    "max_lines_per_file": 1000,
+    "auto_generate_diagram": true,
+    "plantuml_output_dir": "./plantuml_output",
+    "plantuml_output_filename": "mma_diagram",
+    "plantuml_include_timestamp": true,
+    "plantuml_custom_instructions": "Explain like im 5"
+  },
+  {
+    "source_dirs": ["../meine-cookies"],
+    "file_extensions": ["js"],
+    "output_file": "./output/combined_1.txt",
+    "custom_ignore_patterns": ["*.min.js", "**/dist/**", "**/.vscode/**"],
+    "max_lines_per_file": 1000,
+    "auto_generate_diagram": true,
+    "plantuml_output_dir": "./plantuml_output",
+    "plantuml_output_filename": "cookies_diagram",
+    "plantuml_include_timestamp": false
+  }
+]
