@@ -81,7 +81,7 @@ Create a file named `gramit.config.json` in the same directory as the executable
     "plantuml_output_dir": "./diagrams",
     "plantuml_output_filename": "project_structure",
     "plantuml_include_timestamp": true,
-    "plantuml_custom_instructions": "!theme bluegray\n!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml"
+    "plantuml_custom_instructions": "Forget about sequence diagram, generate a user flow diagram instead."
   },
   {
     "source_dirs": ["./docs"],
