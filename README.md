@@ -16,7 +16,7 @@ GramIt is a powerful Rust-based tool that combines and visualizes your code file
 ## 🛠 Installation
 
 ```
-curl -L -o gramit https://github.com/Ansonhkg/gramit/releases/download/1.1.0/gramit
+curl -L -o gramit https://github.com/Ansonhkg/gramit/releases/download/1.1.1/gramit
 ```
 
 ## 🚀 Usage
